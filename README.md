@@ -8,6 +8,8 @@ Her er de slides vi underviser ud fra:
 
 [Talsystemer](UNF_Masterclass_talsystemer.pptx)
 
+[Intro til programmering i Python](Masterclass_slides (1).pdf)
+
 
 # Opgaver
 

@@ -20,3 +20,13 @@ Her der links til forskellige opgaver:
 [If-sætninger](https://colab.research.google.com/drive/1xBIet2D2oKo9nbKOTavS6QzOj1Va-m9j)
 
 [Løkkker (og lister)](https://colab.research.google.com/drive/16zJIJTNdL0MBR5RNNOt5oq--QQrvSvRw)
+
+# Ekstra links
+
+[Code combat](https://codecombat.com/play/dungeon)
+
+[Minecraft/Hour of code](https://code.org/minecraft)
+
+[Express course/Hour of code](https://studio.code.org/s/express-2019)
+
+[Codingbat](https://codingbat.com/python)

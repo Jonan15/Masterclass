@@ -14,6 +14,9 @@ Her er de slides vi underviser ud fra:
 # Opgaver
 
 Her der links til forskellige opgaver:
+
 [Colaboratory](https://drive.google.com/file/d/1erUB3WuFqMODeVHNsh3N0w62uxdslKG6/view?usp=sharing)
+
+[If-sætninger](https://colab.research.google.com/drive/1xBIet2D2oKo9nbKOTavS6QzOj1Va-m9j)
 
 

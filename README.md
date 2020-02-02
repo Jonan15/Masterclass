@@ -30,3 +30,5 @@ Her der links til forskellige opgaver:
 [Express course/Hour of code](https://studio.code.org/s/express-2019)
 
 [Codingbat](https://codingbat.com/python)
+
+[Ted Ed - Talsystemer (video)](https://www.youtube.com/watch?v=cZH0YnFpjwU)

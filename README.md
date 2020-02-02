@@ -10,6 +10,8 @@ Her er de slides vi underviser ud fra:
 
 [Intro til programmering i Python](intro-til-prog.pdf)
 
+[Denne side](https://jonan15.github.io/Python-intro/) har flere slides med mere undervisning og flere opgaver.
+
 
 # Opgaver
 
